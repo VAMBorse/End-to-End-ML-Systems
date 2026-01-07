@@ -15,19 +15,8 @@ Learn how transfer learning improves performance on large image datasets
 
 Evaluate models using appropriate metrics like accuracy and confusion matrices
 
-🗂️ Project Structure
-├── data/
-│   └── PlantVillage dataset
-├── notebooks/
-│   ├── Week1_Data_Exploration.ipynb
-│   ├── Week2_Classical_ML_Baselines.ipynb
-│   └── Week3_CNN_Transfer_Learning.ipynb
-├── models/
-├── results/
-└── README.md
-
-🧪 Weekly Breakdown
-✅ Week 1: Data Understanding & Exploration
+🧪** Weekly Breakdown**
+✅ **Week 1: Data Understanding & Exploration**
 
 Explored the PlantVillage dataset
 
@@ -37,7 +26,7 @@ Visualized sample images
 
 Discussed challenges of image-based datasets
 
-✅ Week 2: Classical Machine Learning Baselines
+✅ **Week 2: Classical Machine Learning Baselines**
 
 Converted images into feature vectors
 
@@ -49,8 +38,8 @@ Support Vector Machine (SVM)
 
 Established a performance baseline to compare deep learning models against
 
-⚠️ Week 3: CNN Transfer Learning (Partial Completion)
-
+⚠️** Week 3: CNN Transfer Learning (Partial Completion)
+**
 In Week 3, the focus was on Convolutional Neural Networks (CNNs) and transfer learning.
 
 ✔️ Completed:
