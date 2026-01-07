@@ -53,6 +53,8 @@ Added custom classification layers
 Trained and evaluated the model on the PlantVillage dataset
 
 Analyzed training performance and confusion matrix
+<img width="1920" height="1020" alt="Screenshot 2026-01-07 193715" src="https://github.com/user-attachments/assets/abc94f06-eb80-4f6f-8dd1-f3c7a485ad5d" />
+this is what I achieved
 
 ❌ Not Completed:
 
